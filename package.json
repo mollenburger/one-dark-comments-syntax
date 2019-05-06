@@ -2,10 +2,10 @@
   "name": "one-dark-comments-syntax",
   "theme": "syntax",
   "version": "0.1.0",
-  "description": "A dark syntax theme",
+  "description": "A modified one dark syntax theme with more readable comments",
   "keywords": [
     "dark",
-    "blue",
+    "comments",
     "syntax"
   ],
   "repository": "https://github.com/mollenburger/one-dark-comments-syntax",
